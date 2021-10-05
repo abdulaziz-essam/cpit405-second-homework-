@@ -1,0 +1,146 @@
+body{
+    width: 100%;
+    height: 100%;
+
+  
+}
+div{
+    color: black;
+
+}
+.message-template{
+
+}
+.template{ 
+  margin-left: 20%;
+  margin-right: 20%;
+
+background-color:rgba(204,211,211);
+
+}
+
+.names{
+  margin-left: 35px;
+}
+.flag{
+display: block;
+width: 100%;
+
+height: 10%;
+}
+/* first image after saudi arabia national day */
+.freashlarge{
+ 
+
+  color: white;
+  margin-left:  18% ;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  height: 100px;
+
+}
+.national-day{
+  width: 340px;
+}
+.text{
+    display: block;
+margin-right: auto;
+margin-left: 40%;
+}
+.nat91{
+  display: flex;
+  justify-content:first baseline;
+   
+  
+}
+
+
+.nat91 .text{
+  background-image: url('./rottenlargebg.png');
+
+  color: darkgrey;
+  margin: 0px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  height: 100px;
+  width: 31%;
+
+}
+.temp{
+  background-color: rgb(204, 211, 211);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.flex-container > div {
+}
+.message{
+
+  width: 600px;
+  height: 86px;
+  border: 2px solid white;
+  font-size:  16px;
+  background-color:white;
+  nav-up: 30px;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: -70px;
+  margin-left: 0px;
+
+}.message2{
+    margin-right: 100px;
+  width: 600px;
+  height: 86px;
+  border: 2px solid white;
+  font-size:16px;
+  background-color:white;
+  nav-up: 30px;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 0px;
+  margin-left: 0px;
+  
+
+}
+.bcgr{
+  float: right;
+  margin-top:-820;
+  margin-right: 235px;
+  width: 340px;
+  height: 113%;
+  background-image: url('./bg.png');
+}
+.critic{
+  margin-left: 8px;
+  margin-right: 10px;
+  width: 30px;
+  margin-top:20px;
+  height: 35px
+}
+.years{margin-top: 20px;}
+.info{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  box-sizing: border-box;
+  margin: 0px -10px;
+  
+
+}
+.name{
+  margin-top:35px;
+  margin-right: 350px;
+  color: black;
+  font-size: 17px;
+}
+.name2{
+    margin-top:-9px;
+  margin-right: 350px;
+  color: black;
+  font-size: 17px;
+  margin-left: 10px;
+}
